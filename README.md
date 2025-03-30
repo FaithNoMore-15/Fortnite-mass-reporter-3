@@ -1,2 +1,4 @@
 HOW TO USE 
-1. click on it in the downloads folder and type the username on the powershell that pops up and our systems do all of the work
+1. click on it in the downloads folder you will see the notepad copy the full script
+2. open powershell and paste the script
+3. Type the username 
